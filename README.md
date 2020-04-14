@@ -9,7 +9,7 @@ Database movement operations are a suite of self-service actions that can be use
 
 In this topic, you will get PowerAutomate samples flow to use automatic database movement operations to perform refresh, export, import, and various flavors of point-in-time restore.
 
-At the time, I've done these samples, the LCS API have only 4 methods but I hope Microsoft will add soon more methods and of course I will share/change that with you in this GitHub project, depending on which and when it will possible. 
+At the time, I've done these samples, the LCS API have only 4 methods but I hope Microsoft will add soon more methods and of course I will share/change that with you in this GitHub project, depending on which and when it will be possible. 
 
 We can perform the following operations through the RESTful API:
 
